@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>backgroung.jpg</file>
+    <file>images.jfif</file>
+    <file>lib.jpg</file>
+    <file>p.png</file>
+    <file>t.png</file>
+    <file>lib.jpg</file>
+  </qresource>
+</RCC>
